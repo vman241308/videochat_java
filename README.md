@@ -1,6 +1,4 @@
 # Video-Chat-Application-using-Java
-Desktop based Video Chat Application using Java Socket Programming and OpenCV.<br/>
-<br/>
 
 To run application on two different computers/system (System1 and System2) : <br/>
 Step 1: Check both your systems are in same LAN network.<br/>
